@@ -1,0 +1,8 @@
+{
+  "name": "AUTOMEXA - Smart Institute Management & WhatsApp Automation",
+  "description": "Enterprise-grade institute management and WhatsApp automation platform with interconnected portals for Owners, Teachers, and Parents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
